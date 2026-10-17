@@ -1,8 +1,10 @@
 # Ingest Pro Desktop for Windows
 
+**Official website: [www.ingest-pro.com](https://www.ingest-pro.com/windows)** · downloads, guides, pricing and support.
+
 Ingest Pro turns a folder of multicamera footage into an editing-ready XML timeline for Adobe Premiere Pro or DaVinci Resolve.
 
-This is the official release repository. The Windows installer is distributed through [GitHub Releases](https://github.com/vt-prods/ingest-pro/releases/latest); the application source code is not included here.
+This is the official release repository. The Windows installer is distributed through [GitHub Releases](https://github.com/vt-prods/Ingest-Pro-Windows/releases/latest); the application source code is not included here.
 
 ## What it does
 
@@ -34,7 +36,7 @@ See the current plans, legal terms and support information at [ingest-pro.com/de
 
 ## Installation
 
-1. Download the latest `IngestProSetup*.exe` from [Releases](https://github.com/vt-prods/ingest-pro/releases/latest).
+1. Download the latest `IngestProSetup*.exe` from [Releases](https://github.com/vt-prods/Ingest-Pro-Windows/releases/latest).
 2. Run the installer and open Ingest Pro.
 3. Start the free trial or paste the licence key received after purchase.
 
